@@ -42,8 +42,18 @@ host: www.google.com
 
 1. Requisição  
     Envio de parametros para o servidor  
+    1. GET :  
+        O Cabeçalho que qontém os parametros de requisição
+    2. POST:
+        O corpo possui os parâmetros da requisição
 2. Resposta  
     Os aquivos que o servidor manda para o cliente  
 
 **OBS: os aquivos são comprimidos , entre outras taticas para envio de requisições, além de varias requisições**
 
+## Grupos de status 
+1. 1XX - Informação
+2. 2XX - Sucesso
+3. 3XX - Redirecionamento
+4. 4XX - Erro no Cliente
+5. 5XX - Erro no Servidor
