@@ -7,8 +7,8 @@
    1990s - Internet Brasil  
    2000s - IG, Redes Sociais, Internet em Casa  
 ## Topologia  
-   Centralizada - Vários computadores ligados ao nó central, uma vez que o nó para de funcionar toda rede para também.  
-   Distribuida - Não tem um ponto central, caso um pare de funcionar a rede toda não cai.  
+   - Centralizada - Vários computadores ligados ao nó central, uma vez que o nó para de funcionar toda rede para também.  
+   - Distribuida - Não tem um ponto central, caso um pare de funcionar a rede toda não cai.  
   
    - Web (Teia):  
      São provedores que ligam os servidores que tem varios tipos.  
@@ -17,34 +17,34 @@
      - Tier 1 networks  
 
 ## Protocolos  
-   1. **TCP/IP**  
-    - Transmission Control Protocol   
-    - Orientado a conexão e confiável  
-   2. **UDP**  
-     - Streaming  
-     - Mais apropriado  
-     - Melhor Esforço  
-   3. **IP**  
-     - Internet Protocol  
-     - Roteamento de redes  
+   1. TCP/IP  
+      - Transmission Control Protocol   
+      - Orientado a conexão e confiável  
+   2. UDP  
+      - Streaming  
+      - Mais apropriado  
+      - Melhor Esforço  
+   3. IP  
+      - Internet Protocol  
+      - Roteamento de redes  
 ## TCP/IP  
    **Camadas** (Funções diferentes, mas nescessita uma da outra) :  
-            1. Aplicação   
-                - HTTP, FTP, SMTP   
-                - Comunicação Processo-A-Processo  
-                - Número da Porta  
-            2. Transporte    
-                - TCP, UDP  
-                - Comunicação host-a-host  
-                - Confiabilidade, Integridade  
-            3. Internet  
-                - IP  
-                - Conexão entre redes  
-                - Transferência de Pacotes  
-            4. Rede/Física   
-                - Ethernet, Wifi  
-                - Mac Address  
-                - Hardware (fisica) e Software (enlace)  
+   1. Aplicação   
+      - HTTP, FTP, SMTP   
+      - Comunicação Processo-A-Processo  
+      - Número da Porta  
+   2. Transporte    
+      - TCP, UDP  
+      - Comunicação host-a-host  
+      - Confiabilidade, Integridade  
+   3. Internet  
+      - IP  
+      - Conexão entre redes  
+      - Transferência de Pacotes  
+   4. Rede/Física   
+      - Ethernet, Wifi  
+      - Mac Address  
+      - Hardware (fisica) e Software (enlace)  
 ## IP  
    1. **Ex. 192.168.100.230**  
       - Dividio em 4 partes (0 - 255)  
