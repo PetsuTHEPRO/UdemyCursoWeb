@@ -16,12 +16,12 @@
   - [ ] Seção 6 - Objeto
   - [ ] Seção 7 - Array
   - [ ] Seção 8 - Lista de Exercícios de Javascript
-Quando estiver confortável com javascript, sugiro ir para a **Seção 14 - Integrando HTML, CSS e JS**
+  Quando estiver confortável com javascript, sugiro ir para a **Seção 14 - Integrando HTML, CSS e JS**
 
 ## BOOTSTRAP E JQUERY
   - [ ] Seção 18 - JQuery
   - [ ] Seção 19 - Bootstrap
-**SE VOCÊ CHEGOU ATÉ AQUI, MEUS PARABÉNS! VOCÊ JÁ PODE TRABALHAR DANDO MANUTENÇÃO EM MUITOS, REPITO: MUITOS SITES E SISTEMAS "LEGADOS".**
+  **SE VOCÊ CHEGOU ATÉ AQUI, MEUS PARABÉNS! VOCÊ JÁ PODE TRABALHAR DANDO MANUTENÇÃO EM MUITOS, REPITO: MUITOS SITES E SISTEMAS "LEGADOS".**
 
 ## "Javascript Moderno"
   - [ ] Seção 9 - Node
@@ -30,7 +30,7 @@ Quando estiver confortável com javascript, sugiro ir para a **Seção 14 - Inte
   - [ ] Seção 16 - Gulp
   - [ ] Seção 37 - Gulp - Versão 3
   - [ ] Seção 17 - Webpack
-Para consolidar conhecimento: **Seção 20: Projeto galeria (bootstrap/JQuery/Webpack)**
+  Para consolidar conhecimento: **Seção 20: Projeto galeria (bootstrap/JQuery/Webpack)**
 
 ## BANCO DE DADOS E EXPRESS
 - [ ] Seção 30 - Banco relacional
