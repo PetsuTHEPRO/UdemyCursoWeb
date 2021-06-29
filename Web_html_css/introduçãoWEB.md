@@ -10,8 +10,8 @@
    Centralizada - Vários computadores ligados ao nó central, uma vez que o nó para de funcionar toda rede para também.  
    Distribuida - Não tem um ponto central, caso um pare de funcionar a rede toda não cai.  
   
-   - Web (Teia)  
-     são provedores que ligam os servidores que tem varios tipos.  
+   - Web (Teia):  
+     São provedores que ligam os servidores que tem varios tipos.  
      - Tier 3 networks  
      - Tier 2 networks  
      - Tier 1 networks  
@@ -20,15 +20,15 @@
    1. **TCP/IP**  
     - Transmission Control Protocol   
     - Orientado a conexão e confiável  
-     - **UDP**  
-        - Streaming  
-        - Mais apropriado  
-        - Melhor Esforço  
-      - **IP**  
-        - Internet Protocol  
-        - Roteamento de redes  
-    ## TCP/IP  
-        - **Camadas** (Funções diferentes, mas nescessita uma da outra) :  
+   2. **UDP**  
+     - Streaming  
+     - Mais apropriado  
+     - Melhor Esforço  
+   3. **IP**  
+     - Internet Protocol  
+     - Roteamento de redes  
+## TCP/IP  
+   **Camadas** (Funções diferentes, mas nescessita uma da outra) :  
             1. Aplicação   
                 - HTTP, FTP, SMTP   
                 - Comunicação Processo-A-Processo  
@@ -45,23 +45,23 @@
                 - Ethernet, Wifi  
                 - Mac Address  
                 - Hardware (fisica) e Software (enlace)  
-    ## IP  
-        **Ex. 192.168.100.230**  
-            - Dividio em 4 partes (0 - 255)  
-            - Classe A  
-            - 1 parte => Rede, 3 partes => Host  
-            - Mascara (255.0.0.0)  
-        **Ex. 192.168.100.230**  
-            - Dividio em 4 partes (0 - 255)  
-            - Classe B  
-            - 2 parte => Rede, 2 partes => Host  
-            - Mascara (255.255.0.0)  
-        **Ex. 192.168.100.230**  
-            - Dividio em 4 partes (0 - 255)  
-            - Classe C  
-            - 3 parte => Rede, 1 partes => Host  
-            - Mascara (255.255.255.0)  
-    ## Porta 
-        Serve para mapear os processos de uma maquina,  e assim acessar os processos certos, conectando maquina-a-maquina e processo-a-processo.
+## IP  
+   1. **Ex. 192.168.100.230**  
+      - Dividio em 4 partes (0 - 255)  
+      - Classe A  
+      - 1 parte => Rede, 3 partes => Host  
+      - Mascara (255.0.0.0)  
+   2. **Ex. 192.168.100.230**  
+      - Dividio em 4 partes (0 - 255)  
+      - Classe B  
+      - 2 parte => Rede, 2 partes => Host  
+      - Mascara (255.255.0.0)  
+   3. **Ex. 192.168.100.230**  
+      - Dividio em 4 partes (0 - 255)  
+      - Classe C  
+      - 3 parte => Rede, 1 partes => Host  
+      - Mascara (255.255.255.0)  
+## Porta 
+   Serve para mapear os processos de uma maquina,  e assim acessar os processos certos, conectando maquina-a-maquina e processo-a-processo.
     
     
