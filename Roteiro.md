@@ -1,8 +1,8 @@
 # UdemyCursoWeb
 
 ## APRESENTAÇÃO: 
-  - [ ] Seção 1 - introdução.
-  - [ ] Seção 2 - Configuração de Ambiente.
+  - [X] Seção 1 - introdução.
+  - [X] Seção 2 - Configuração de Ambiente.
 
 ## HTML E CSS:
   - [ ] Seção 11 - Conceitos sobre Web
