@@ -1,32 +1,32 @@
 # Introdução  
-    ## História  
-        1950s - Computador Eletrônico  
-        1960s - ARPANET(Departamento de Defesa Americana)  
-        1970s - TCP/IP(Robert  E. Kahn & Bint Cerl)   
-        1980s - WWW(Tim Berners-Lee)  
-        1990s - Internet Brasil  
-        2000s - IG, Redes Sociais, Internet em Casa  
-    ## Topologia  
-        Centralizada - Vários computadores ligados ao nó central, uma vez que o nó para de funcionar toda rede para também.  
-        Distribuida - Não tem um ponto central, caso um pare de funcionar a rede toda não cai.  
+## História  
+   1950s - Computador Eletrônico  
+   1960s - ARPANET(Departamento de Defesa Americana)  
+   1970s - TCP/IP(Robert  E. Kahn & Bint Cerl)   
+   1980s - WWW(Tim Berners-Lee)  
+   1990s - Internet Brasil  
+   2000s - IG, Redes Sociais, Internet em Casa  
+## Topologia  
+   Centralizada - Vários computadores ligados ao nó central, uma vez que o nó para de funcionar toda rede para também.  
+   Distribuida - Não tem um ponto central, caso um pare de funcionar a rede toda não cai.  
   
-        - Web (Teia)  
-            são provedores que ligam os servidores que tem varios tipos.  
-            - Tier 3 networks  
-            - Tier 2 networks  
-            - Tier 1 networks  
+   - Web (Teia)  
+     são provedores que ligam os servidores que tem varios tipos.  
+     - Tier 3 networks  
+     - Tier 2 networks  
+     - Tier 1 networks  
 
-    ## Protocolos  
-        - **TCP/IP**  
-            - Transmission Control Protocol   
-            - Orientado a conexão e confiável  
-        - **UDP**  
-            - Streaming  
-            - Mais apropriado  
-            - Melhor Esforço  
-        - **IP**  
-            - Internet Protocol  
-            - Roteamento de redes  
+## Protocolos  
+   1. **TCP/IP**  
+    - Transmission Control Protocol   
+    - Orientado a conexão e confiável  
+     - **UDP**  
+        - Streaming  
+        - Mais apropriado  
+        - Melhor Esforço  
+      - **IP**  
+        - Internet Protocol  
+        - Roteamento de redes  
     ## TCP/IP  
         - **Camadas** (Funções diferentes, mas nescessita uma da outra) :  
             1. Aplicação   
