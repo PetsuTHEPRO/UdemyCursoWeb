@@ -44,5 +44,6 @@ host: www.google.com
     Envio de parametros para o servidor  
 2. Resposta  
     Os aquivos que o servidor manda para o cliente  
-    
-**OBS: os aquivos são comprimidos**
+
+**OBS: os aquivos são comprimidos , entre outras taticas para envio de requisições, além de varias requisições**
+
